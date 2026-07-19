@@ -1,0 +1,11 @@
+# Logs generados
+crash-logs/*.log
+
+# Backups y archivos temporales
+*.BAK
+*.save
+*.save.*
+*~
+
+# Archivos de sistema
+.DS_Store
